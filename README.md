@@ -34,7 +34,7 @@ I'm a passionate **Junior Full Stack Engineer** with a deep desire for building 
 
 ### Airbnb Clone (Full Stack)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1](https://github.com/iankj1/airbnb-clone-project.git)
 
 **Airbnb Clone** is a full-stack web application built with **Python, Django, JavaScript, and SQL**, replicating core features of Airbnb such as user authentication, booking, property listing, and admin dashboard. This project demonstrates my skills in both frontend integration and backend logic design. You can check out the repository [here](project_1_repository_link).
 
