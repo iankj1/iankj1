@@ -10,7 +10,7 @@ I'm a passionate **Junior Full Stack Engineer** with a deep desire for building 
 
 🌱 Constantly learning and sharpening my skills in Python, Node.js,MERN Stack and modern backend technologies.
 
-- 🌱 Currently learning: **ALX Backend and Backend Pro course**
+- 🌱 Currently learning: **ALX Cyber Security Course**
 - 🔭 Working on: **A full-stack Airbnb Clone project**
 - 🌍 Languages: **Spoken --- (English, Swahili), Programming --- (HTML, CSS, JavaScript, MERN Stack, Python, C++ Java)**
 - 📫 How to reach me: **indumia2@gmail.com**
